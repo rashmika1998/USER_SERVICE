@@ -48,7 +48,7 @@
                             
                         </div>
                     </div>
-                    <!--  col-md-6   -->
+                   
 
                     <div class="col-md-6">
                         <div class="form-group">
@@ -79,7 +79,7 @@
                         <div class="form-group">
                         
                         04)	Phone:
-				<input id="userCont" name="userCont" type="text" class="form-control form-control-sm" placeholder="0711234568">
+				<input id="userCont" name="userCont" type="text" class="form-control form-control-sm" placeholder="">
 				<span style="color:red;" id="error_contact"></span>
 				
                         </div>
